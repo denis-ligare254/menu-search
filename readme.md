@@ -9,7 +9,8 @@
   =JAVASCRIPT
 
 # link to live server
-
+-Here is the link to live server
+(https://denis-ligare254.github.io/menu-search/)
 # link to remote repo
 -here is the link to remote repository
  (https://github.com/denis-ligare254/menu-search.git)
